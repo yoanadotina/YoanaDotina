@@ -1,8 +1,8 @@
 body {
             background-color: #FFFFFF;
-            margin-left: 250px;
+            margin-left: 12%;
             margin-top: 100px;
-            margin-right: 250px;
+            margin-right: 12%;
             margin-bottom: 100px; 
 }
 
@@ -12,6 +12,7 @@ h1 {
             color: #000;
             margin-bottom: 0px;
             font-family: Monaco, monospace;
+
 }
 
 h2 {
@@ -46,6 +47,8 @@ h3 {
     height: 80px;
     line-height: 80px;
     text-align: center;
+    
+
 }
 
 .cv:hover {
@@ -54,5 +57,7 @@ h3 {
 
 p1 {
     font-family: Monaco, monospace;
-    font-size: 40px;   
+    font-size: 25px;
+    color: black;
+    
 }
